@@ -1,0 +1,22 @@
+package comp132;
+
+public class FirstClass {
+
+	public static void main(String[]  args) {
+
+	
+	String a = "My Programming Exercise";
+	
+	System.out.println(a);
+	
+	computedistance(1.55, 2.112, 1.00, 5.10);
+			
+	}
+	
+	private static void computedistance(double d, double e, double f, double g) {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+}
